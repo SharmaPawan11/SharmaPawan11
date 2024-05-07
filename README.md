@@ -4,6 +4,6 @@
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/pawan-sharma-006826150/)
 
-![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=deathwish98&count_private=true&show_icons=true&theme=moltack&hide_rank=true)
+![Pawan's github stats](https://github-readme-stats.vercel.app/api?username=sharmapawan11&count_private=true&show_icons=true&theme=moltack&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deathwish98&layout=compact&theme=moltack)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmapawan11&layout=compact&theme=moltack)
